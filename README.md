@@ -1,6 +1,7 @@
 # InstaFilter
 An image filter app for iOS 14  using Swift and CoreImage 
 
+![Core_Image_icon](https://user-images.githubusercontent.com/51410810/86364902-698a2980-bc96-11ea-9673-6dd73d43b987.png)
 
 
 
